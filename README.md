@@ -1,4 +1,4 @@
-![Placeholder Banner](https://picsum.photos/1024/256)
+![Banner](https://raw.githubusercontent.com/arkana-team/branding/refs/heads/main/arkana_banner.png)
 <h1 align="center">arkanaOS</h1>
 A project to make the least bloated Linux, from scratch!
 
